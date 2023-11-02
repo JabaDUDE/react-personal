@@ -1,0 +1,36 @@
+{
+    "FavoriteBooks": [
+        {
+        "name": "The Hero With A Thousand Faces",
+        "author": "Joseph Campbell",
+        "image": "thousand-faces.jpg"
+        },
+        {
+        "name": "Red Rising",
+        "author": "Pierce Brown",
+        "image": "red-rising.jpg"
+        }
+    ],
+    "FavoriteGames":[
+        {
+        "name": "Skyrim",
+        "image": "skyrim.png"
+        },
+        {
+        "name": "Mass Effect Legendary Edition",
+        "image": "mass-effect.jpg" 
+        },
+        {
+        "name": "Stardew Valley",
+        "image": "stardew-valley.png"   
+        },
+        {
+        "name": "Omori",
+        "image": "omori.jpg" 
+        },
+        {
+        "name": "Kingdom Hearts 2",
+        "image": "kingdom-hearts.jpg"
+        }
+    ]
+}
