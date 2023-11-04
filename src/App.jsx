@@ -20,8 +20,10 @@ function App() {
 
   return(
     <>
-    <h1 className="text-red-500">Favorite Books I've Read</h1>
-    <div>{FaveBooks}</div>
+    <h1>Favorite Books I've Read</h1>
+    <div className="flex flex-wrap gap-4">
+    {FaveBooks}
+    </div>
     <h1>My Favorite Games</h1>
     <div>{FaveGames}</div>
     </>
