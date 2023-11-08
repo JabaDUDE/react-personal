@@ -17,7 +17,7 @@ function App() {
   const FaveGames = Games.map((game, index) => {
     return <Card name={game.name} image={game.image} key={index} />
   })
-//mb-4 text-4xl font-extrabold leading-none tracking-tight text-gray-900 md:text-5xl lg:text-6xl dark:text-white
+
   return(
     <>
     <h1 className="tracking-tight font-black md:text-5xl lg:text-6xl my-9">Favorite Books I've Read</h1>
