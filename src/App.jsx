@@ -21,11 +21,11 @@ function App() {
   return(
     <>
     <h1 className="tracking-tight font-black md:text-5xl lg:text-6xl my-9">Favorite Books I've Read</h1>
-    <div className="flex gap-4">
+    <div className="flex flex-wrap gap-4">
     {FaveBooks}
     </div>
     <h1 className="tracking-tight font-black md:text-5xl lg:text-6xl my-9">My Favorite Games</h1>
-    <div className="flex gap-4">{FaveGames}</div>
+    <div className="flex flex-wrap gap-4">{FaveGames}</div>
     </>
     
   )
