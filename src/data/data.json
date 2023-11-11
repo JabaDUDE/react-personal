@@ -3,34 +3,41 @@
         {
         "name": "The Hero With A Thousand Faces",
         "author": "Joseph Campbell",
-        "image": "thousand-faces.jpg"
+        "image": "thousand-faces.jpg",
+        "url": "https://www.amazon.com/Thousand-Faces-Collected-Joseph-Campbell-ebook/dp/B08MWW2VDL/ref=sr_1_1?crid=2P90360437KPE&keywords=the+hero+with+a+thousand+faces+by+joseph+campbell&qid=1699691438&sprefix=the+hero%2Caps%2C92&sr=8-1"
         },
         {
         "name": "Red Rising",
         "author": "Pierce Brown",
-        "image": "red-rising.jpg"
+        "image": "red-rising.jpg",
+        "url":"https://www.amazon.com/Red-Rising-Book-ebook/dp/B00CVS2J80/ref=sr_1_1?crid=2SR3TJW8OGPLE&keywords=red+rising&qid=1699691462&sprefix=red+%2Caps%2C79&sr=8-1"
         }
     ],
     "FavoriteGames":[
         {
         "name": "Skyrim",
-        "image": "skyrim.png"
+        "image": "skyrim.png",
+        "url": "https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/"
         },
         {
         "name": "Mass Effect Legendary Edition",
-        "image": "mass-effect.jpg" 
+        "image": "mass-effect.jpg",
+        "url":"https://store.steampowered.com/app/1328670/Mass_Effect_Legendary_Edition/" 
         },
         {
         "name": "Stardew Valley",
-        "image": "stardew-valley.png"   
+        "image": "stardew-valley.png",
+        "url":"https://store.steampowered.com/app/413150/Stardew_Valley/"   
         },
         {
         "name": "Omori",
-        "image": "omori.jpg" 
+        "image": "omori.jpg",
+        "url":"https://store.steampowered.com/app/1150690/OMORI/" 
         },
         {
         "name": "Kingdom Hearts 2",
-        "image": "kingdom-hearts.jpg"
+        "image": "kingdom-hearts.jpg",
+        "url":"https://kingdomhearts.fandom.com/wiki/Kingdom_Hearts_II"
         }
     ]
 }

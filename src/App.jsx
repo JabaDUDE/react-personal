@@ -11,11 +11,11 @@ function App() {
   
 
   const FaveBooks = Books.map((book, index) => {
-    return <Card name={book.name} author={book.author} image={book.image}  key={index}/>
+    return <Card name={book.name} author={book.author} image={book.image}  key={index} url={book.url} />
   })
 
   const FaveGames = Games.map((game, index) => {
-    return <Card name={game.name} image={game.image} key={index} />
+    return <Card name={game.name} image={game.image} key={index} url={game.url} />
   })
 
   return(
