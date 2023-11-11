@@ -1,6 +1,6 @@
 export default function Card(props){
     return(
-        <div className="flex flex-initial flex-col flex-wrap w-69 overflow-hidden border-red border-2 bg-blue-900 text-white text-center rounded-lg hover:border-black hover:scale-105">
+        <div className="flex flex-wrap w-69 overflow-hidden border-red border-2 bg-blue-900 text-white text-center rounded-lg hover:border-black hover:scale-105">
         <a href={props.url} target="_blank">
             <img 
             src={`./assets/${props.image}`} 
