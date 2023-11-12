@@ -39,5 +39,22 @@
         "image": "kingdom-hearts.jpg",
         "url":"https://kingdomhearts.fandom.com/wiki/Kingdom_Hearts_II"
         }
+    ],
+    "FavoriteShows": [
+        {
+            "name": "Castle",
+            "image": "castle.jpg",
+            "url": "https://en.wikipedia.org/wiki/Castle_(TV_series)"
+        },
+        {
+            "name": "One Piece",
+            "image": "one-piece.jpg",
+            "url": "https://en.wikipedia.org/wiki/One_Piece"
+        },
+        {
+            "name": "One Punch Man",
+            "image": "one-punch-man.png",
+            "url": "https://en.wikipedia.org/wiki/One-Punch_Man"
+        }
     ]
 }

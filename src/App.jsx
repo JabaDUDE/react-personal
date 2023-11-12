@@ -8,26 +8,36 @@ import data from './data/data.json'
 function App() {
   const Games = data.FavoriteGames
   const Books = data.FavoriteBooks
+  const Shows = data.FavoriteShows
   
 
   const FaveBooks = Books.map((book, index) => {
-    return <Card name={book.name} author={book.author} image={book.image}  key={index} url={book.url} />
+    return <Card image={book.image}  key={index} url={book.url} />
   })
 
   const FaveGames = Games.map((game, index) => {
-    return <Card name={game.name} image={game.image} key={index} url={game.url} />
+    return <Card image={game.image} key={index} url={game.url} />
+  })
+
+  const FaveShows = Shows.map((show, index) => {
+    return <Card image={show.image} key={index} url={show.url} />
   })
 
   return(
     <div>
-    <h1 className="tracking-tight font-black md:text-5xl lg:text-6xl my-9 text-white text-center">Favorite Books I've Read</h1>
-    <div className="flex flex-wrap gap-2 py-4">
+    <h1 className="tracking-tight text-5xl my-9 text-white text-center">Favorite Books</h1>
+    <div className="flex flex-wrap gap-2 py-4 justify-center">
     {FaveBooks}
     </div>
-    <h1 className="tracking-tight font-black md:text-5xl lg:text-6xl my-9 text-white text-center">My Favorite Games</h1>
-    <div className="flex flex-wrap gap-2 py-4">
+    <h1 className="tracking-tight text-5xl my-9 text-white text-center">Favorite Games</h1>
+    <div className="flex flex-wrap gap-2 py-4 justify-center">
     {FaveGames}
     </div>
+    <h1 className="tracking-tight text-5xl my-9 text-white text-center">Favorite Shows</h1>
+    <div className="flex flex-wrap gap-2 py-4 justify-center">
+    {FaveShows}
+    </div>
+
     </div>
     
   )
