@@ -55,6 +55,11 @@
             "name": "One Punch Man",
             "image": "one-punch-man.png",
             "url": "https://en.wikipedia.org/wiki/One-Punch_Man"
+        },
+        {
+            "name":"Psych",
+            "image":"psych.jpg",
+            "url":"https://www.imdb.com/title/tt0491738/"
         }
     ]
 }
