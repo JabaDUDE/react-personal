@@ -26,15 +26,15 @@ function App() {
   return(
     <div>
     <h1 className="tracking-tight text-5xl my-9 text-white text-center">Favorite Books</h1>
-    <div className="flex flex-wrap gap-2 py-4 justify-center">
+    <div className="flex flex-wrap gap-3 py-4 justify-center">
     {FaveBooks}
     </div>
     <h1 className="tracking-tight text-5xl my-9 text-white text-center">Favorite Games</h1>
-    <div className="flex flex-wrap gap-2 py-4 justify-center">
+    <div className="flex flex-wrap gap-3 py-4 justify-center">
     {FaveGames}
     </div>
     <h1 className="tracking-tight text-5xl my-9 text-white text-center">Favorite Shows</h1>
-    <div className="flex flex-wrap gap-2 py-4 justify-center">
+    <div className="flex flex-wrap gap-3 py-4 justify-center">
     {FaveShows}
     </div>
 
