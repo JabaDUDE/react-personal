@@ -1,6 +1,8 @@
 body{
   background-color: rgb(23 37 84);
 }
+/* Vanilla css to make into tailwindcss
+
 .card--details p{
   opacity: 0;
 }
@@ -13,4 +15,4 @@ body{
 .card--details:hover img{
   filter: brightness(.25);
   transform: scale(1.1);
-}
+} */

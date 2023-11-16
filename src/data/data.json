@@ -4,62 +4,73 @@
         "name": "The Hero With A Thousand Faces",
         "author": "Joseph Campbell",
         "image": "thousand-faces.jpg",
-        "url": "https://www.amazon.com/Thousand-Faces-Collected-Joseph-Campbell-ebook/dp/B08MWW2VDL/ref=sr_1_1?crid=2P90360437KPE&keywords=the+hero+with+a+thousand+faces+by+joseph+campbell&qid=1699691438&sprefix=the+hero%2Caps%2C92&sr=8-1"
+        "url": "https://www.amazon.com/Thousand-Faces-Collected-Joseph-Campbell-ebook/dp/B08MWW2VDL/ref=sr_1_1?crid=2P90360437KPE&keywords=the+hero+with+a+thousand+faces+by+joseph+campbell&qid=1699691438&sprefix=the+hero%2Caps%2C92&sr=8-1",
+        "summary": "The Hero with a Thousand Faces (1948) is a seminal work of comparative mythology. It reveals that foundational myths from around the world share similar structures and themes, which trace back to some of our earliest stories and continue to hold a strong power over us today."
         },
         {
         "name": "Red Rising",
         "author": "Pierce Brown",
         "image": "red-rising.jpg",
-        "url":"https://www.amazon.com/Red-Rising-Book-ebook/dp/B00CVS2J80/ref=sr_1_1?crid=2SR3TJW8OGPLE&keywords=red+rising&qid=1699691462&sprefix=red+%2Caps%2C79&sr=8-1"
+        "url":"https://www.amazon.com/Red-Rising-Book-ebook/dp/B00CVS2J80/ref=sr_1_1?crid=2SR3TJW8OGPLE&keywords=red+rising&qid=1699691462&sprefix=red+%2Caps%2C79&sr=8-1",
+        "summary":"Darrow is a Red, a miner in the interior of Mars. His mission is to extract enough precious elements to one day tame the surface of the planet and allow humans to live on it. The Reds are humanity's last hope. Or so it appears, until the day Darrow discovers it's all a lie."
         }
     ],
     "FavoriteGames":[
         {
         "name": "Skyrim",
         "image": "skyrim.png",
-        "url": "https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/"
+        "url": "https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/",
+        "summary":"The game is set 200 years after the events of Oblivion and takes place in Skyrim, the northernmost province of Tamriel, a continent on the planet Nirn. Its main story focuses on the player's character, the Dragonborn, on their quest to defeat Alduin the World-Eater, a dragon who is prophesied to destroy the world."
         },
         {
         "name": "Mass Effect Legendary Edition",
         "image": "mass-effect.jpg",
-        "url":"https://store.steampowered.com/app/1328670/Mass_Effect_Legendary_Edition/" 
+        "url":"https://store.steampowered.com/app/1328670/Mass_Effect_Legendary_Edition/",
+        "summary":"Mass Effect: Legendary Edition is a collection of the first three games in the classic sci-fi RPG series, all remastered for modern gaming platforms. You take on the role of Commander Shepard, and up-and-coming soldier of the human Alliance military in 2183 that is tasked with stopping a looming threat." 
         },
         {
         "name": "Stardew Valley",
         "image": "stardew-valley.png",
-        "url":"https://store.steampowered.com/app/413150/Stardew_Valley/"   
+        "url":"https://store.steampowered.com/app/413150/Stardew_Valley/",
+        "summary":"Stardew Valley is an open-ended country-life RPG! You've inherited your grandfather's old farm plot in Stardew Valley. Armed with hand-me-down tools and a few coins, you set out to begin your new life. Can you learn to live off the land and turn these overgrown fields into a thriving home?"    
         },
         {
         "name": "Omori",
         "image": "omori.jpg",
-        "url":"https://store.steampowered.com/app/1150690/OMORI/" 
+        "url":"https://store.steampowered.com/app/1150690/OMORI/",
+        "summary":"A young man and his friends set out a quest to find a missing person while confronting his traumatic past and fears. In this game, you play as OMORI, a young man in black and white, who goes to visits his friends when he finds out his best friend, Basil, disappeared the previous day."  
         },
         {
         "name": "Kingdom Hearts 2",
         "image": "kingdom-hearts.jpg",
-        "url":"https://kingdomhearts.fandom.com/wiki/Kingdom_Hearts_II"
+        "url":"https://kingdomhearts.fandom.com/wiki/Kingdom_Hearts_II",
+        "summary":"Sora, Donald & Goofy wake up one year later after Chain of Memories (three after the first instalment) in another world called Twilight Town where he gets a mission from Yen-sid to wipe out the heartless. Yen-sid also informs them about new foes to beware of, such as Nobodies and the evil Organization XIII." 
         }
     ],
     "FavoriteShows": [
         {
-            "name": "Castle",
-            "image": "castle.jpg",
-            "url": "https://en.wikipedia.org/wiki/Castle_(TV_series)"
+        "name": "Castle",
+        "image": "castle.jpg",
+        "url": "https://en.wikipedia.org/wiki/Castle_(TV_series)",
+        "summary":"Richard 'Rick' Castle is a millionaire playboy who recently killed off his main character when a serial killer starts killing people like he does in his books. He teams up with New York police detective Kate Beckett to solve the case." 
         },
         {
-            "name": "One Piece",
-            "image": "one-piece.jpg",
-            "url": "https://en.wikipedia.org/wiki/One_Piece"
+        "name": "One Piece",
+        "image": "one-piece.jpg",
+        "url": "https://en.wikipedia.org/wiki/One_Piece",
+        "summary":"ONE PIECE is a legendary high-seas quest unlike any other. Luffy is a young adventurer who has longed for a life of freedom ever since he can remember. He sets off from his small village on a perilous journey to find the legendary fabled treasure, ONE PIECE, to become King of the Pirates!" 
         },
         {
-            "name": "One Punch Man",
-            "image": "one-punch-man.png",
-            "url": "https://en.wikipedia.org/wiki/One-Punch_Man"
+        "name": "One Punch Man",
+        "image": "one-punch-man.png",
+        "url": "https://en.wikipedia.org/wiki/One-Punch_Man",
+        "summary":"One Punch Man is a Japanese superhero manga series created by One. It tells the story of Saitama, a superhero who, because he can defeat any opponent with a single punch, grows bored from a lack of challenge" 
         },
         {
-            "name":"Psych",
-            "image":"psych.jpg",
-            "url":"https://www.imdb.com/title/tt0491738/"
+        "name":"Psych",
+        "image":"psych.jpg",
+        "url":"https://www.imdb.com/title/tt0491738/",
+        "summary":"When a novice sleuth convinces the police he has psychic powers, he and his reluctant best friend are hired on as consultants to help solve complicated cases." 
         }
     ]
 }

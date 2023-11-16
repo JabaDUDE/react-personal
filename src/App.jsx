@@ -12,15 +12,15 @@ function App() {
   
 
   const FaveBooks = Books.map((book, index) => {
-    return <Card image={book.image}  key={index} url={book.url} />
+    return <Card image={book.image}  key={index} url={book.url} summary={book.summary}/>
   })
 
   const FaveGames = Games.map((game, index) => {
-    return <Card image={game.image} key={index} url={game.url} />
+    return <Card image={game.image} key={index} url={game.url} summary={game.summary}/>
   })
 
   const FaveShows = Shows.map((show, index) => {
-    return <Card image={show.image} key={index} url={show.url} />
+    return <Card image={show.image} key={index} url={show.url} summary={show.summary}/>
   })
 
   return(
