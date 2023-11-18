@@ -13,6 +13,13 @@
         "image": "red-rising.jpg",
         "url":"https://www.amazon.com/Red-Rising-Book-ebook/dp/B00CVS2J80/ref=sr_1_1?crid=2SR3TJW8OGPLE&keywords=red+rising&qid=1699691462&sprefix=red+%2Caps%2C79&sr=8-1",
         "summary":"Darrow is a Red, a miner in the interior of Mars. His mission is to extract enough precious elements to one day tame the surface of the planet and allow humans to live on it. The Reds are humanity's last hope. Or so it appears, until the day Darrow discovers it's all a lie."
+        },
+        {
+            "name":"The Book of Disquiet",
+            "author":"Fernando Pessoa",
+            "image":"book-of-disquiet.jpg",
+            "url":"https://www.amazon.com/Book-Disquiet-Penguin-Classics/dp/0141183047/ref=sr_1_4?crid=1VI2Q29BPW5CA&keywords=the+book+of+disquiet+by+fernando+pessoa&qid=1700275562&sprefix=the+book+of+disquiet%2Caps%2C92&sr=8-4",
+            "summary":"This is a unique collection of short, aphoristic paragraphs comprises the 'autobiography' of Bernardo Soares, one of Pessoa's alternate selves. Part intimate diary, part prose poetry, part descriptive narrative, captivatingly translated by Richard Zenith, The Book of Disquiet is one of the greatest works of the twentieth century."
         }
     ],
     "FavoriteGames":[
@@ -45,6 +52,12 @@
         "image": "kingdom-hearts.jpg",
         "url":"https://kingdomhearts.fandom.com/wiki/Kingdom_Hearts_II",
         "summary":"Sora, Donald & Goofy wake up one year later after Chain of Memories (three after the first instalment) in another world called Twilight Town where he gets a mission from Yen-sid to wipe out the heartless. Yen-sid also informs them about new foes to beware of, such as Nobodies and the evil Organization XIII." 
+        },
+        {
+            "name":"Kingdom Hearts 1",
+            "image":"kingdom-hearts-1.jpg",
+            "url":"https://kingdomhearts.fandom.com/wiki/Kingdom_Hearts_(game)",
+            "summary":" A young boy of 14, Sora and his friends Riku and Kairi dream of visiting outside worlds away from their home on Destiny Islands . So they decide to build a ship to sail out of there, but the night before Sora has weird dreams about darkness and light. He wakes up not knowing if their real or not."
         }
     ],
     "FavoriteShows": [
