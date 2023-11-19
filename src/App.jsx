@@ -24,7 +24,7 @@ function App() {
   })
 
   return(
-    <div>
+    <div className="my-auto">
     <h1 className="tracking-tight text-5xl my-9 text-white text-center">Favorite Books</h1>
     <div className="flex flex-wrap gap-3 py-4 justify-center">
     {FaveBooks}
