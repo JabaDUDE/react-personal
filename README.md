@@ -15,6 +15,8 @@ This was my first project with ReactJS and Tailwindcss and I wanted to do someth
 
 I didn't realize that deploying a React project on Github would be different than deploying with just vanilla javascript and CSS. While it took some trial and error, I'm happy that I learned how to effectively deploy my React project so I could showcase it. I also learned a create deal about the basics of ReactJS and tailwindcss. One of the most challenging things about this project was working on responsiveness of the images and creating a cool feature that gives more information about the image when you hover over it.
 
+I also learned a lot more about the power of git. At some point during working on this project, I messed up deployment by force merging index.html file between branches (oops). So I had a broken project that deployed (somehow) an earlier version of the project and my local environment displayed nothing. Ultimately, it was here that I learned that how git works in working backwards with projects where I already committed changes. I was able to go backwards to an earlier commit and correct my mistake and get it working again without having to do something as tedious as deleting and recreating the repo. This was the first time working with git outside of the usual 'git add/commit/push'.
+
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
