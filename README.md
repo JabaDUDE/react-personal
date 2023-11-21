@@ -1,4 +1,4 @@
-# My Awesome Project
+# PROJECT: GETTING TO KNOW ME
 My first React project made with Tailwindcss that show some of my favorite things to watch and play!
 
 **Link to project:** https://jabadude.github.io/react-personal/
