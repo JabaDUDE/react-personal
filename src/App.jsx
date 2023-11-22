@@ -3,14 +3,15 @@ import './App.css'
 import Card from './Card'
 import data from './data/data.json'
 
-//TODO: style up components and page (i.e. all images the same size, flex wrap, etc)
+
 
 function App() {
+  //target each section of json file
   const Games = data.FavoriteGames
   const Books = data.FavoriteBooks
   const Shows = data.FavoriteShows
   
-
+  //creates the entirety of cards for sections defined above
   const FaveBooks = Books.map((book, index) => {
     return <Card image={book.image}  key={index} url={book.url} summary={book.summary}/>
   })

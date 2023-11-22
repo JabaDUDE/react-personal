@@ -1,3 +1,4 @@
+//creates a single image card
 export default function Card(props){
   
     return(
@@ -16,11 +17,3 @@ export default function Card(props){
         </div>
     )
 }
-
-// <h1 className="break-words p-2">{props.name}</h1>
-// {props.author && <h3 className="p-2">By: {props.author}</h3>}
-//
-//<div class="bg-[url('/img/hero-pattern.svg')]">
-
-// </div>
-// Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ultrices quis lacus ut rhoncus. Nam sit amet mauris sem. Maecenas ut pellentesque metus. Sed tristique dictum      augue, in laoreet elit venenatis id. Aliquam erat volutpat. Integer porttitor laoreet suscipit.
