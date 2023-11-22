@@ -10,7 +10,7 @@ export default function Card(props){
             alt={props.name}   
             />
         
-        <div className="absolute hover:text-white text-center p-1 opacity-0 group-hover:opacity-100 group-hover:brightness-100 group-hover:text-white group-hover:transition-all group-hover:ease-in-out duration-500 mt-1">
+        <div className="absolute hover:text-white text-center p-2 opacity-0 group-hover:opacity-100 group-hover:brightness-100 group-hover:text-white group-hover:transition-all group-hover:ease-in-out duration-500 mt-1">
              <p>{props.summary}</p>
              <a href={props.url} target="_blank" rel="noreferrer" className="text-blue-500 underline">Learn More...</a>
         </div>
