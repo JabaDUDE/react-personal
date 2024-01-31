@@ -1,6 +1,13 @@
 {
     "FavoriteBooks": [
         {
+            "name": "Dune",
+            "author": "Frank Herbert",
+            "image": "dune.jpg",
+            "url": "https://www.amazon.com/Dune-Frank-Herbert/dp/0441172717",
+            "summary": "Set on the desert planet Arrakis, Dune is the story of Paul Atreides—who would become known as Muad'Dib—and of a great family's ambition to bring to fruition mankind's most ancient and unattainable dream."
+        },
+        {
         "name": "The Hero With A Thousand Faces",
         "author": "Joseph Campbell",
         "image": "thousand-faces.jpg",
