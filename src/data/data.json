@@ -1,6 +1,13 @@
 {
     "FavoriteBooks": [
         {
+            "name": "The Way Of Kings",
+            "author": "Brandon Sanderson",
+            "image": "thewayofkings.jpg",
+            "url": "https://www.amazon.com/Way-Kings-Stormlight-Archive-Book-ebook/dp/B003P2WO5E/ref=sr_1_1?crid=18XYRXQ62THVK&dib=eyJ2IjoiMSJ9.R5qgtnrJNBLTi6X_OzNCnVly2FPOVp_RvpZ-8jIXOTmDS8ojV-9GhhuNe662enCJlDKpI56aF2gd3zlli9WfoE5MQTJIhwRFwGa6g4Gj744620bQXZYCDGgODYxOTHSowXUhwcLtUmk-eZBqT5ciWgcEFX3ITPkfMXTQ_jZyGjA9IpMLK-OD0aWqOeLrA3TwmwKUIZMf102o7ljupyCSQXHQibqBj1LbYxM-Q2DwP1o._RNffVUxj2MyC9nb6oKU0tvP_zB_wH_zdMtSboKEhwA&dib_tag=se&keywords=the+way+of+kings&qid=1713553932&sprefix=the+way+of+kings%2Caps%2C96&sr=8-1",
+            "summary": "One such war rages on a ruined landscape called the Shattered Plains. There, Kaladin, who traded his medical apprenticeship for a spear to protect his little brother, has been reduced to slavery. In a war that makes no sense, where ten armies fight separately against a single foe, he struggles to save his men and to fathom the leaders who consider them expendable."
+        },
+        {
             "name": "Dune",
             "author": "Frank Herbert",
             "image": "dune.jpg",
