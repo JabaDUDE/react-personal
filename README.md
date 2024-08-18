@@ -20,4 +20,8 @@ I also learned a lot more about the power of git. At some point during working o
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**Blackjack:** https://jabadude.github.io/blackjack-site/
+**Portfolio:** https://github.com/JabaDUDE/portfolio-site
+
+**Blackjack:** https://github.com/JabaDUDE/blackjack-site
+
+**Random Quote Generator:** https://github.com/JabaDUDE/react-quote-generator
