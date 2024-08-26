@@ -1,18 +1,18 @@
 {
     "FavoriteBooks": [
         {
-            "name": "The Way Of Kings",
-            "author": "Brandon Sanderson",
-            "image": "thewayofkings.jpg",
-            "url": "https://www.amazon.com/Way-Kings-Stormlight-Archive-Book-ebook/dp/B003P2WO5E/ref=sr_1_1?crid=18XYRXQ62THVK&dib=eyJ2IjoiMSJ9.R5qgtnrJNBLTi6X_OzNCnVly2FPOVp_RvpZ-8jIXOTmDS8ojV-9GhhuNe662enCJlDKpI56aF2gd3zlli9WfoE5MQTJIhwRFwGa6g4Gj744620bQXZYCDGgODYxOTHSowXUhwcLtUmk-eZBqT5ciWgcEFX3ITPkfMXTQ_jZyGjA9IpMLK-OD0aWqOeLrA3TwmwKUIZMf102o7ljupyCSQXHQibqBj1LbYxM-Q2DwP1o._RNffVUxj2MyC9nb6oKU0tvP_zB_wH_zdMtSboKEhwA&dib_tag=se&keywords=the+way+of+kings&qid=1713553932&sprefix=the+way+of+kings%2Caps%2C96&sr=8-1",
-            "summary": "One such war rages on a ruined landscape called the Shattered Plains. There, Kaladin, who traded his medical apprenticeship for a spear to protect his little brother, has been reduced to slavery. In a war that makes no sense, where ten armies fight separately against a single foe, he struggles to save his men and to fathom the leaders who consider them expendable."
+        "name": "The Way Of Kings",
+        "author": "Brandon Sanderson",
+        "image": "thewayofkings.jpg",
+        "url": "https://www.amazon.com/Way-Kings-Stormlight-Archive-Book-ebook/dp/B003P2WO5E/ref=sr_1_1?crid=18XYRXQ62THVK&dib=eyJ2IjoiMSJ9.R5qgtnrJNBLTi6X_OzNCnVly2FPOVp_RvpZ-8jIXOTmDS8ojV-9GhhuNe662enCJlDKpI56aF2gd3zlli9WfoE5MQTJIhwRFwGa6g4Gj744620bQXZYCDGgODYxOTHSowXUhwcLtUmk-eZBqT5ciWgcEFX3ITPkfMXTQ_jZyGjA9IpMLK-OD0aWqOeLrA3TwmwKUIZMf102o7ljupyCSQXHQibqBj1LbYxM-Q2DwP1o._RNffVUxj2MyC9nb6oKU0tvP_zB_wH_zdMtSboKEhwA&dib_tag=se&keywords=the+way+of+kings&qid=1713553932&sprefix=the+way+of+kings%2Caps%2C96&sr=8-1",
+        "summary": "One such war rages on a ruined landscape called the Shattered Plains. There, Kaladin, who traded his medical apprenticeship for a spear to protect his little brother, has been reduced to slavery. In a war that makes no sense, where ten armies fight separately against a single foe, he struggles to save his men and to fathom the leaders who consider them expendable."
         },
         {
-            "name": "Dune",
-            "author": "Frank Herbert",
-            "image": "dune.jpg",
-            "url": "https://www.amazon.com/Dune-Frank-Herbert/dp/0441172717",
-            "summary": "Set on the desert planet Arrakis, Dune is the story of Paul Atreides—who would become known as Muad'Dib—and of a great family's ambition to bring to fruition mankind's most ancient and unattainable dream."
+        "name": "Dune",
+        "author": "Frank Herbert",
+        "image": "dune.jpg",
+        "url": "https://www.amazon.com/Dune-Frank-Herbert/dp/0441172717",
+        "summary": "Set on the desert planet Arrakis, Dune is the story of Paul Atreides—who would become known as Muad'Dib—and of a great family's ambition to bring to fruition mankind's most ancient and unattainable dream."
         },
         {
         "name": "The Hero With A Thousand Faces",
@@ -29,11 +29,11 @@
         "summary":"Darrow is a Red, a miner in the interior of Mars. His mission is to extract enough precious elements to one day tame the surface of the planet and allow humans to live on it. The Reds are humanity's last hope. Or so it appears, until the day Darrow discovers it's all a lie."
         },
         {
-            "name":"The Book of Disquiet",
-            "author":"Fernando Pessoa",
-            "image":"book-of-disquiet.jpg",
-            "url":"https://www.amazon.com/Book-Disquiet-Penguin-Classics/dp/0141183047/ref=sr_1_4?crid=1VI2Q29BPW5CA&keywords=the+book+of+disquiet+by+fernando+pessoa&qid=1700275562&sprefix=the+book+of+disquiet%2Caps%2C92&sr=8-4",
-            "summary":"This is a unique collection of short, aphoristic paragraphs comprises the 'autobiography' of Bernardo Soares, one of Pessoa's alternate selves. Part intimate diary, part prose poetry, part descriptive narrative, captivatingly translated by Richard Zenith, The Book of Disquiet is one of the greatest works of the twentieth century."
+        "name":"The Book of Disquiet",
+        "author":"Fernando Pessoa",
+        "image":"book-of-disquiet.jpg",
+        "url":"https://www.amazon.com/Book-Disquiet-Penguin-Classics/dp/0141183047/ref=sr_1_4?crid=1VI2Q29BPW5CA&keywords=the+book+of+disquiet+by+fernando+pessoa&qid=1700275562&sprefix=the+book+of+disquiet%2Caps%2C92&sr=8-4",
+        "summary":"This is a unique collection of short, aphoristic paragraphs comprises the 'autobiography' of Bernardo Soares, one of Pessoa's alternate selves. Part intimate diary, part prose poetry, part descriptive narrative, captivatingly translated by Richard Zenith, The Book of Disquiet is one of the greatest works of the twentieth century."
         }
     ],
     "FavoriteGames":[
@@ -68,10 +68,10 @@
         "summary":"Sora, Donald & Goofy wake up one year later after Chain of Memories (three after the first instalment) in another world called Twilight Town where he gets a mission from Yen-sid to wipe out the heartless. Yen-sid also informs them about new foes to beware of, such as Nobodies and the evil Organization XIII." 
         },
         {
-            "name":"Kingdom Hearts 1",
-            "image":"kingdom-hearts-1.jpg",
-            "url":"https://kingdomhearts.fandom.com/wiki/Kingdom_Hearts_(game)",
-            "summary":" A young boy of 14, Sora and his friends Riku and Kairi dream of visiting outside worlds away from their home on Destiny Islands . So they decide to build a ship to sail out of there, but the night before Sora has weird dreams about darkness and light. He wakes up not knowing if their real or not."
+        "name":"Kingdom Hearts 1",
+        "image":"kingdom-hearts-1.jpg",
+        "url":"https://kingdomhearts.fandom.com/wiki/Kingdom_Hearts_(game)",
+        "summary":" A young boy of 14, Sora and his friends Riku and Kairi dream of visiting outside worlds away from their home on Destiny Islands . So they decide to build a ship to sail out of there, but the night before Sora has weird dreams about darkness and light. He wakes up not knowing if their real or not."
         }
     ],
     "FavoriteShows": [
